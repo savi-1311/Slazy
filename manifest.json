@@ -12,5 +12,12 @@
         "32": "logo.png",
         "48": "logo.png",
         "128": "logo.png"
-    }
+    },
+    "background": {
+        "service_worker" : "background.js"
+    },
+    "permissions": [
+        "notifications",
+        "alarms"
+    ]
 }
