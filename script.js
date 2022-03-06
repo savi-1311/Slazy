@@ -1,8 +1,8 @@
 let toDoList = [
-    {'habit':'💤 Sleep for 8 hours', 'done':false},
-    {'habit':'🍸 Drink 8 glasses of water', 'done':false},
-    {'habit':'🍎 Eat at least one fruit', 'done':false},
-    {'habit':'🏃 Exercise at least 30 minutes', 'done':false}
+    {'habit':'Sleep for 8 hours', 'done':false},
+    {'habit':'Drink 8 glasses of water', 'done':false},
+    {'habit':'Eat at least one fruit', 'done':false},
+    {'habit':'Exercise at least 30 minutes', 'done':false}
 ];
 let checked = '#83c5be';
 let white = "#eee";
