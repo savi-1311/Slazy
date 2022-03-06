@@ -34,6 +34,10 @@ It’s important to remember that you’re not alone. If you’re struggling or 
 
 ![ffddd2](https://user-images.githubusercontent.com/56017960/156911246-81d01a46-a625-4e23-a823-30132ebc1261.png)
 
+![1](https://user-images.githubusercontent.com/78133928/156917314-209c4ef4-353b-4d10-a0d6-2cc8818cdc5b.png)
+
+![2](https://user-images.githubusercontent.com/78133928/156917317-b3729c27-c0f3-45cc-9545-0b5a9ee5e58d.png)
+
 ***
 
 ## 🔧 How we built it?
