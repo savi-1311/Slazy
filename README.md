@@ -1,6 +1,9 @@
 # Slazy - Slay your Health Goals lazy peeps 🎯
 
 ## 💡Inspiration
+
+* 👩‍💻 We, specifically computer programmers rarely take out time to work on our health while browsing. We get so much engrossed in "writing code" that we often forget to drink water, sit straight or even blink eyes.
+
 * 💻 Often, Computer Science students and working professionals spend most of their time sitting on the desk. The continuous period of physical inactivity required with a desk job poses a constant threat of chronic back, neck and arm pain, in addition to lethal conditions of congestive heart failure and stroke.
 
 * 🚴‍♂️ Due to long stretches of work, we frequently neglect basic tasks required for sustenance, such as drinking ample amount of water, relaxing our eyes, and exercising enough.
@@ -18,7 +21,11 @@ Slazy is a chrome extension that can be used to keep a track of required daily h
 It helps keep a weekly record of daily health activities including: 💤 Sleep for 8 hours, 🍸 Drink 8 glasses of water, 🍎 Eat at least one fruit, 🏃 Exercise at least 30 minutes. Completing daily tasks helps in the fostering of healthy habits.
 
 * ⏰ **Reminders**: 
-Notifications are sent on regular intervals that will remind you to drink water, blink your eyes, sit straight and walk around for a while.
+Notifications are sent on regular intervals that will remind you to perform daily tasks. These tasks include:
+  - Drink Water: Every 45 mins
+  - Blink: Every 20 mins
+  - Fix Posture: Every 30 mins
+  - Stretch and Walk Around: Every 90 mins
 
 * 🏃‍♀️ **Exercises**: 
 This page gives you a curated list of exercises you can do on your desk 🖥️ Additional equipment isn’t required, hence you can comfortably take a well-deserved break and commit time to your physical well-being 💆‍♀️.
@@ -52,7 +59,7 @@ It’s important to remember that you’re not alone. If you’re struggling or 
 
 We used github to collaborate and create this project in multiple ways:
 
-* 1⃣ **Collaboration with Pull Requests:** We were a team of three members. Therefore, we created detailed **Pull Requests** to collaborate over this project. Moreover, all the bugs/features were dealt using **Issues**. We also requested **Reviews** on the PRs so that the changes could not break the product.
+* 1⃣ **Collaboration with Pull Requests and Issues:** We were a team of three members. Therefore, we created detailed **Pull Requests** to collaborate over this project. Moreover, all the bugs/features were dealt using **Issues**. We also requested **Reviews** on the PRs so that the changes could not break the product.
 
 * 2⃣ **Collaboration with Project:** Recently, we came accross Github Projects. For this hack, we utilized Github Projects to keep a track of each one's progress. We created different sections: ToDo, In Progress, Under Review, Finished and Video for the perfect team collaboration. You can check our Project [here](https://github.com/users/savi-1311/projects/3). The complete process was automated and on attaching the Project to the PRs, they were transferred to the ToDo column.
 
@@ -61,6 +68,10 @@ We used github to collaborate and create this project in multiple ways:
 * 4⃣ **Github Pages:** Our Website is deployed at https://savi-1311.github.io/Slazy/ using Github pages. It was very simple to set up and host the ```website``` branch.
 
 * 5⃣ **Github Wiki:** We also utilized the Github Wiki to explain how to setup the project locally. You can check the wiki [here](https://github.com/savi-1311/Slazy/wiki/%F0%9F%94%A7-Setting-Up-the-Extension).
+
+* 6⃣ **Github Workflows:** As a bonus, we also utilized Github workflows to assign labels to the PR to make the repository more readable.
+
+* 7⃣ **Github Templates:** The Pull Requests and Issues already have a template. Just try to raise an issue, you will be prompted to choose between two options: Feature/Bug. The templates are created using yaml file. Apart from that, we have also added MIT License and the ReadMe file.
 
 ![Usage of GitHub](https://user-images.githubusercontent.com/56017960/156914134-fbd10ff5-fe21-4a2e-9232-a1c1b11f43ae.png)
 
