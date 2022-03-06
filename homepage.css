@@ -378,7 +378,9 @@ a:hover {
 }
 
 footer {
-  background-color: #006d77;
+  /* background-color: #006d77; */
+  background: url(https://images.unsplash.com/photo-1565768502425-079460b64877?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
+    center center / cover no-repeat;
 
   text-align: center;
 
