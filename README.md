@@ -1,11 +1,11 @@
 # Slazy - Slay your Health Goals lazy peeps 🎯
 
 ## 💡Inspiration
-* 💻 Often, Computer Science students and working professionals spend most of their time sitting on the desk. The continuous sitting required with a desk job poses a constant threat of chronic back, neck and arm pain in addition to lethal conditions of congestive heart failure and stroke.
+* 💻 Often, Computer Science students and working professionals spend most of their time sitting on the desk. The continuous period of physical inactivity required with a desk job poses a constant threat of chronic back, neck and arm pain, in addition to lethal conditions of congestive heart failure and stroke.
 
-* 🚴‍♂️ Due to continous stretch of work, we often cannot complete basic tasks such as drinking ample amount of water, relaxing our eyes, and exersising enough. 
+* 🚴‍♂️ Due to long stretches of work, we frequently neglect basic tasks required for sustenance, such as drinking ample amount of water, relaxing our eyes, and exercising enough.
 
-* 🧘‍♀️ Meditation is a proven way to improve efficiency and reduce stress at work. Still, a lot less people have knowledge to do it properly.
+* 🧘‍♀️ Meditation is a proven way to improve efficiency and reduce stress at work. Sadly, a lot less people have the adequate knowledge of performing it.
 
 ***
 
@@ -21,16 +21,16 @@ It helps keep a weekly record of daily health activities including: 💤 Sleep f
 Notifications are sent on regular intervals that will remind you to drink water, blink your eyes, sit straight and walk around for a while.
 
 * 🏃‍♀️ **Exercises**: 
-It helps keep a weekly record of daily health activities including: 💤 Sleep for 8 hours, 🍸 Drink 8 glasses of water, 🍎 Eat at least one fruit, 🏃 Exercise at least 30 minutes. Completing daily tasks helps in the fostering of healthy habits.
+This page gives you a curated list of exercises you can do on your desk 🖥️ Additional equipment isn’t required, hence you can comfortably take a well-deserved break and commit time to your physical well-being 💆‍♀️.
 
 * 🌸 **Meditation**: 
-Notifications are sent on regular intervals that will remind you to drink water, blink your eyes, sit straight and walk around for a while.
+Meditation page details poses with the right practices for you to begin your meditation journey 🧘‍♀️, so that you can balance stress and your health better with work.
 
 * 🌱 **Mind Corner**: 
-It helps keep a weekly record of daily health activities including: 💤 Sleep for 8 hours, 🍸 Drink 8 glasses of water, 🍎 Eat at least one fruit, 🏃 Exercise at least 30 minutes. Completing daily tasks helps in the fostering of healthy habits.
+To break the taboo on mental health related discussions 💭, mind corner talks about and promotes information on common problems and disorders.
 
 * ☎️ **Helpline**: 
-Notifications are sent on regular intervals that will remind you to drink water, blink your eyes, sit straight and walk around for a while.
+It’s important to remember that you’re not alone. If you’re struggling or know someone who has been, helpline page gives you numbers sorted by the country of residence 📲.
 
 ![ffddd2](https://user-images.githubusercontent.com/56017960/156911246-81d01a46-a625-4e23-a823-30132ebc1261.png)
 
@@ -63,6 +63,8 @@ We used github to collaborate and create this project in multiple ways:
 ## Challenges We Ran Into 🙁
 
 ❗️Enabling multiple alarms: We had alarms/notofications at specific intervals of 20,45,30 and 90 mins. But all the alarms were going off at once. It was difficult to test them as a lot of patience was required to wait for alarms to trigger with time. Finally, with conditional statements and a lot of stackoverflow answers, we could get it solved.
+
+❗Scrolling to different sections, adjusting the scroll button alignment and animation, and fixing content with the cards were tricky. But with some tweaks, we finally managed to cover those errors.
 
 ***
 
