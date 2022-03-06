@@ -82,8 +82,7 @@ We could complete both the website and extension in the stipulated time. We had 
 
 ***
 
-## Slazy - Slay your Health Goals lazy peeps 🎯
-
+## What's next for Slazy?
 * Custom Reminders
 * Custom daily goals
 * Backend system for users to put up their own blogs in the mind corner section.
